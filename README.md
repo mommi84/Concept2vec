@@ -17,10 +17,10 @@ The raw data which is sample from DBpedia ontology and DBpedia Knowledge graph i
 
 
 The vectors trained by skip-gram, CBOW, RDF2VEC and GloVe are provided in the following links:
-•	http://tsoru.aksw.org/concept2vec/ 
-•	http://tsoru.aksw.org/concept2vec/glove/output/task1/ 
-•	http://tsoru.aksw.org/concept2vec/glove/output/task2/ 
-•	 http://tsoru.aksw.org/concept2vec/glove/output/task3/ 
+•	http://tsoru.aksw.org/concept2vec/
+•	http://tsoru.aksw.org/concept2vec/glove/output/task1/
+•	http://tsoru.aksw.org/concept2vec/glove/output/task2/
+•	http://tsoru.aksw.org/concept2vec/glove/output/task3/
 
 
 Code Folder contains python source code employed for computations.
